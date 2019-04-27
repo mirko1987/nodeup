@@ -1,0 +1,17 @@
+{
+  "name": "nodeup",
+  "version": "1.0.0",
+  "description": "example for image upload in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "mirko vitale",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {}
+}
